@@ -1,4 +1,5 @@
 postwachstum
 ============
 
-offenes Informationsmaterial
+Weiterführende Links:
+
